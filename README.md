@@ -26,7 +26,11 @@ This project demonstrates:
 - Least privilege IAM security
 
 ---
+## 🏗️ AWS Cost Optimization Architecture
 
+![AWS Cost Optimization Architecture](https://github.com/avinashpandey404/aws-cost-optimization/blob/main/AWS%20Cost%20Optimization.png)
+
+---
 # 🏗️ Project Architecture
 
 ```text
